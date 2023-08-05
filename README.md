@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiaa Alzuhiri</h1>
-<h3 align="center">Full Stack .NET Developer</h3>
+<h3 align="center">.NET Developer</h3>
 
 - 💬 Ask me about **ASP.NET Core or MVC and SQL Server or React Or Anything Related To My Clear Experiences Below**
 
